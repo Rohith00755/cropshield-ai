@@ -1,19 +1,19 @@
-# 🌾 CropShield AI
+#  CropShield AI
 
 **CropShield AI** is an intelligent agricultural management platform that helps farmers protect their crops using AI-powered disease detection, real-time weather monitoring, field mapping, and smart advisory tools.
 
-## 🚀 Features
+##  Features
 
-- 🔐 **Google OAuth Authentication** — Secure sign-in with Google
-- 📊 **Dashboard** — Crop health overview with AI insights
-- 🌤 **Weather Page** — Real-time location-based weather with spray index & 7-day forecasts
-- 🗺 **Field Map** — Interactive crop zone mapping
-- 🤖 **AI Advisory** — Smart crop advisor chatbot
-- 📜 **Activity History** — Firebase-backed history tracking
-- 👤 **Farmer Profile** — User profile management
-- 🌿 **Unique Organic UI** — Beautiful crop-themed green agriculture design
+-  **Google OAuth Authentication** — Secure sign-in with Google
+-  **Dashboard** — Crop health overview with AI insights
+-  **Weather Page** — Real-time location-based weather with spray index & 7-day forecasts
+-  **Field Map** — Interactive crop zone mapping
+-  **AI Advisory** — Smart crop advisor chatbot
+-  **Activity History** — Firebase-backed history tracking
+-  **Farmer Profile** — User profile management
+-  **Unique Organic UI** — Beautiful crop-themed green agriculture design
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React** + **Vite**
@@ -28,7 +28,7 @@
 - **Open-Meteo API** (free weather data)
 - **OpenAI / AI advisory**
 
-## 📦 Setup & Run
+##  Setup & Run
 
 ### Prerequisites
 - Node.js 18+
